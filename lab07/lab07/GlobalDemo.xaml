@@ -9,5 +9,4 @@
             <Button Text="application style overrides" Style="{StaticResource buttonStyle}" />
         </StackLayout>
     </ContentPage.Content>
-
 </ContentPage>

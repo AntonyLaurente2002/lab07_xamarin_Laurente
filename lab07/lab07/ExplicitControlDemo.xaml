@@ -14,5 +14,4 @@
             <Label Text="These labels" Style="{StaticResource labelRedStyle}" />
         </StackLayout>
     </ContentPage.Content>
-
 </ContentPage>

@@ -13,5 +13,6 @@
             </StackLayout.Resources>
             <Entry Text="These entries" />
         </StackLayout>
+
     </ContentPage.Content>
 </ContentPage>

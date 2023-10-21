@@ -7,10 +7,5 @@ namespace lab07
 {
     public class CustomEntry : Entry
     {
-        public CustomEntry()
-        {
-            this.Text = "Texto de prueba";
-
-        }
     }
 }

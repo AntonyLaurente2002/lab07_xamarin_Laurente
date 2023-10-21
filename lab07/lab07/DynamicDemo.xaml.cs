@@ -13,15 +13,11 @@ namespace lab07
     public partial class DynamicDemo : ContentPage
     {
         bool originalStyle = true;
-
-
-
         public DynamicDemo()
         {
             InitializeComponent();
             Resources["searchBarStyle"] = Resources["blueSearchBarStyle"];
         }
-
         private void Button_Clicked(object sender, EventArgs e)
         {
             if (originalStyle)
@@ -35,5 +31,6 @@ namespace lab07
                 originalStyle = true;
             }
         }
+
     }
 }
